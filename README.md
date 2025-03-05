@@ -1,4 +1,4 @@
-Let's assume our client is the owner of a supermarket chain, and they have provided us with data from their database on customers who filled out questionnaires to participate in the loyalty program. He/she is is interested in data-driven insights.
+Let's assume our client is the owner of a supermarket chain, and they have provided us with data from their database on customers who filled out questionnaires to participate in the loyalty program. He/she is  interested in data-driven insights.
 
 Based on the results of our work,  the following data-driven recommendations can be presented. Let's start with recommendations for regional markets. Mexico represents a promising market with a willingness to pay, as it has the highest average purchase volumes and purchasing power. Although the company has a low market penetration in the country, it is still a very promising market. However, these are preliminary conclusions that need to be verified with a larger sample.
 
